@@ -1,2 +1,2 @@
-# rightfirst
+# RightFirst
 RightFirst website landing page.
