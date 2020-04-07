@@ -173,7 +173,7 @@ a:focus {
     height: 2px;
     width: 0;
     left: 0;
-    background: url('https://repo.auraia.io/images/button-colours/bt-background.jpg');
+    background: url('https://repo.rightfirst.co.uk/images/button-colours/bt-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-transition: .15s width ease;
@@ -533,7 +533,7 @@ a:focus {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    background: url('https://repo.auraia.io/images/button-colours/main.jpg');
+    background: url('https://repo.rightfirst.co.uk/images/button-colours/main.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -621,7 +621,7 @@ a:focus {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    background: url('https://repo.auraia.io/images/button-colours/warning.jpg');
+    background: url('https://repo.rightfirst.co.uk/images/button-colours/warning.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -651,7 +651,7 @@ a:focus {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
-    background: url('https://repo.auraia.io/images/button-colours/success.jpg');
+    background: url('https://repo.rightfirst.co.uk/images/button-colours/success.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
