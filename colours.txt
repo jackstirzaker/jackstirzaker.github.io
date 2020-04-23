@@ -1,0 +1,2 @@
+Primary Hex: #5E72E4
+Primary RGB: 94, 114, 228
