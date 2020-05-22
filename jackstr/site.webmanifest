@@ -1,0 +1,19 @@
+{
+    "name": "JACKSTR",
+    "short_name": "JACKSTR",
+    "icons": [
+        {
+            "src": "https://repo.rightfirst.co.uk/jackstr/android-chrome-192x192.png?v=vMQn3zx3LN",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://repo.rightfirst.co.uk/jackstr/android-chrome-512x512.png?v=vMQn3zx3LN",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#e0eff8",
+    "background_color": "#e0eff8",
+    "display": "standalone"
+}
