@@ -1,0 +1,195 @@
+/* Manrope Font */
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Regular.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-ExtraLight.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Light.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Medium.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-SemiBold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Bold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src:url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-ExtraBold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/manrope/Manrope-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+/* Space Grotesk Font */
+@font-face {
+    font-family: 'Space Grotesk';
+    src:url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Regular.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src:url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Light.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src:url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Medium.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src:url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-SemiBold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Space Grotesk';
+    src:url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Bold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/space/SpaceGrotesk-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* League Mono Font */
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Regular.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Thin.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-ExtraLight.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Light.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Medium.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-SemiBold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Bold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Mono';
+    src:url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-ExtraBold.woff2') format('woff2'),
+        url('https://repo.rightfirst.co.uk/fonts/league/LeagueMono-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+/* Variable Fonts */
+@font-face {
+    font-family: 'Manrope var';
+    font-weight: 200 800;
+    font-style: normal;
+    font-named-instance: 'Regular';
+    font-display: swap;
+    src: url("https://repo.rightfirst.co.uk/fonts/variable/LeagueMonoVariable.woff2") format("woff2");
+    src: url("https://repo.rightfirst.co.uk/fonts/variable/LeagueMonoVariable.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'Space Grotesk var';
+    font-weight: 300 700;
+    font-style: normal;
+    font-named-instance: 'Regular';
+    font-display: swap;
+    src: url("https://repo.rightfirst.co.uk/fonts/variable/SpaceGroteskVariable.woff2") format("woff2");
+    src: url("https://repo.rightfirst.co.uk/fonts/variable/SpaceGroteskVariable.woff") format("woff");
+}
+
+@font-face {
+    font-family: 'League Mono var';
+    font-weight: 100 800;
+    font-style: normal;
+    font-named-instance: 'Regular';
+    font-display: swap;
+    src: url("https://repo.rightfirst.co.uk/fonts/variable/SpaceGroteskVariable.woff2") format("woff2");
+    src: url("https://repo.rightfirst.co.uk/fonts/variable/SpaceGroteskVariable.woff") format("woff");
+}
