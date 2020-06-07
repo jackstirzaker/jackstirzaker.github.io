@@ -1,0 +1,11 @@
+<link rel="apple-touch-icon" sizes="180x180" href="https://repo.rightfirst.co.uk/unbottle/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://repo.rightfirst.co.uk/unbottle/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://repo.rightfirst.co.uk/unbottle/favicon-16x16.png">
+<link rel="manifest" href="https://repo.rightfirst.co.uk/unbottle/site.webmanifest">
+<link rel="mask-icon" href="https://repo.rightfirst.co.uk/unbottle/safari-pinned-tab.svg" color="#3b87fe">
+<link rel="shortcut icon" href="https://repo.rightfirst.co.uk/unbottle/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Unbottle">
+<meta name="application-name" content="Unbottle">
+<meta name="msapplication-TileColor" content="#3b87fe">
+<meta name="msapplication-config" content="https://repo.rightfirst.co.uk/unbottle/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
