@@ -1,6 +1,6 @@
 # Webfonts
 
-RightFirst and Unbottle webfonts. Comes in `woff2`, `woff` and `variable` formats.
+RightFirst webfonts. Comes in `woff2`, `woff` and `variable` formats.
 
 
 ## Use on the web/Tailwind
